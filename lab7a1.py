@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Student ID: akelifa-haji-imam
+from lab7a import Time
 
 from lab7a import *
 
@@ -17,3 +18,4 @@ ft = format_time
 print(ft(t1), '+', ft(td), '-->', ft(tsum1))
 print(ft(t2), '+', ft(td), '-->', ft(tsum2))
 print(ft(t3), '+', ft(td), '-->', ft(tsum3))
+
