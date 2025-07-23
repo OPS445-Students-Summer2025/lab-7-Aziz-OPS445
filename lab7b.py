@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # lab7a.py
 # OPS445 Lab 7 - Investigation 1 - Part 1
 # Created by Aziz
@@ -7,11 +8,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-=======
-#!/usr/bin/env python3
-# lab7b.py
-# OPS445 Lab 7 - Investigation 1 - Part 2
-# Created by Aziz
 
 class Time:
     def __init__(self, hours=0, minutes=0, seconds=0):
